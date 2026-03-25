@@ -1,1 +1,1 @@
-my bashrc for opensuse-tumbleweed on wsl
+my bashrc for opensuse-tumbleweed
